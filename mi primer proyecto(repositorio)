@@ -1,1 +1,21 @@
-a
+<!doctype html>
+<html>
+ <head>
+   <title>Equipos en acero</title>
+   <meta>
+     <link rel="stylesheet"  href=".css">
+ </head> 
+ <body> 
+  <h1>ACEROEQUIPOS.JR</h1>
+  <div>
+    <h2>Equipos en Acero</h2>
+    <p>Somos una empresa dedicada a la <strong >fabricación, diseño e instalación de productos en acero inoxidable</strong > , ya sea para uso residencial, comercial o industrial en la ciudad de medellin 
+    En <strong >ACEROEQUIPOS.JR, Taller de Acero</strong > contamos con más de 15 años de experiencia como especialistas en la <strong >comercialización y transformación de acero inoxidable</strong > , siendo nuestra misión cubrir los requisitos y necesidades del cliente observando los estándares de calidad más altos del mercado. 
+    Síganos en <strong >nuestras redes sociales</strong > para estar al tanto de nuestras novedades y promociones, o si lo prefiere, precione el botón de <strong >CONTACTO</strong > , déjenos su inquietud y datos personales para q uno de nuestros asesores se ponga en contacto, y le preste la mejor atención y servicio que nos identifican.</p>
+    <button>Facebook</button>
+    <button>Twitter</button>
+    <button>instagram</button>
+    <button>contacto</button>
+  </div> 
+ </body>
+</html>
